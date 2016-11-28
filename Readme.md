@@ -19,8 +19,8 @@ your wing, CMDR.
   - [Control Keys](#control-keys)
   - [Navigation Keys](#navigation-keys)
   - [Numeric Keypad](#numeric-keypad)
-2. [Joystick Button/Axes Values](#joystick-buttons-axes-values)
-3. [Xbox 360/Xbox One Gamepad Values](#xbox-360-xbox-one-gamepad-values)
+2. [Joystick Button/Axes Values](#joystick-buttonsaxes-values)
+3. [Xbox 360/Xbox One Gamepad Values](#xbox-360xbox-one-gamepad-values)
 
 ## Key Values
 
